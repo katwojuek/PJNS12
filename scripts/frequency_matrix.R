@@ -2,7 +2,7 @@
 library(tm)
 
 # zmiana katalogu roboczego
-work_dir <- "L:\\lato21na22\\PJNS12"
+work_dir <- "D:\\KW\\PJNS12"
 setwd(work_dir)
 
 # definicja lokalizacji katalogów funkcyjnych
